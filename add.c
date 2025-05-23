@@ -1,7 +1,7 @@
-#include<stdio.h>
+
 int main()
 {
-	//addition program
+	//add program
 	int a,b;
 	printf<<a+b;
 
